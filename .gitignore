@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# logs
+logs
+*.log
+
+# environment files
+.env
+
+# Cypress stuff
+cypress/screenshots/
+cypress/videos/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
