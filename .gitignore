@@ -15,3 +15,7 @@ cypress/videos/
 # OS and editor files
 .DS_Store
 Thumbs.db
+
+# my play files
+
+cypress/e2e/index.cy - Copy.js
